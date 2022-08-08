@@ -49,7 +49,7 @@ char *getline()
     return str;
 }
 
-int main(){
+int main_(){
 
 //    char * z = getline();
 //    std::cout << z;

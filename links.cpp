@@ -6,7 +6,7 @@ void swap(int & a, int & b){
     b = t;
 }
 
-int main_(){
+int main__(){
     int a = 10;
     int b = 40;
     swap(a, b);
