@@ -3,7 +3,6 @@
 using namespace std;
 
 
-
 char *resize(const char *str, unsigned size, unsigned new_size)
 {
     char * m  = new char[new_size];

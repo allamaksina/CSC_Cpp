@@ -53,7 +53,7 @@ void swap_min(int *m[], unsigned rows, unsigned cols)
 }
 
 
-int main(){
+int main_2d(){
 
     unsigned rows = 5, cols = 7;
 
